@@ -1,0 +1,1 @@
+This a high school physics project that walks the reader through the math of calculating electric charge, field and potential equations and implementing it in code. This is geared toward physicists who have taken some form of Electricity and Magnetism, but anyone should feel free to take a look. The conceptual focus is mainly a basic understanding of Gauss's Law and Calculus.
